@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "student": "avadhut",
+    "category": "Hostel",
+    "title": "no hostel",
+    "description": "make laptop available for students",
+    "status": "Resolved",
+    "created_at": "2026-10-31 22:34"
+  },
+  {
+    "id": 2,
+    "student": "avadhut",
+    "category": "Cafeteria",
+    "title": "clean",
+    "description": "clean cafeteria",
+    "status": "Resolved",
+    "created_at": "2026-10-31 22:34"
+  },
+  {
+    "id": 3,
+    "student": "avadhut123",
+    "category": "Facilities",
+    "title": "hello",
+    "description": "erysytgreaghjvtrewrvysdautyV HFZDMJRT",
+    "status": "Resolved",
+    "created_at": "2026-11-01 00:09"
+  },
+  {
+    "id": 4,
+    "student": "student",
+    "category": "Facilities",
+    "title": "no lifts are working",
+    "description": "in our college their is no lifts are working so i want the lift to start",
+    "status": "In Progress",
+    "created_at": "2026-11-01 15:37"
+  },
+  {
+    "id": 5,
+    "student": "sanil",
+    "category": "Facilities",
+    "title": "kfhv",
+    "description": "dwbubfih vwbr9fh2cgb",
+    "status": "Submitted",
+    "created_at": "2026-11-01 15:40"
+  },
+  {
+    "id": 6,
+    "student": "student",
+    "category": "Cafeteria",
+    "title": "clean cafeteria",
+    "description": "Please clean the cafeteria of our college",
+    "status": "Submitted",
+    "created_at": "2026-11-01 23:23"
+  },
+  {
+    "id": 7,
+    "student": "student",
+    "category": "IT / Wi-Fi",
+    "title": "Poor Wi/fi",
+    "description": "Poor wi/fi System in our college",
+    "status": "Submitted",
+    "created_at": "2026-11-01 23:26"
+  }
+]

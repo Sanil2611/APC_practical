@@ -1,0 +1,17 @@
+{
+  "avadhut": {
+    "password": "bd6e51f0a78a68c7a8071860dbe554cc7eb95f289bae743875fc974ebf499432",
+    "password_hashed": true,
+    "role": "student"
+  },
+  "avadhut123": {
+    "password": "e66b842b79230afca4705a002e39c2ec2c356696929d4e0e2f6197447ed8c65e",
+    "password_hashed": true,
+    "role": "student"
+  },
+  "sanil": {
+    "password": "aaff7c22b1e0f191a977a5a2ae7c65403630bad1363d4c09ef4ebf4f61d16ee0",
+    "password_hashed": true,
+    "role": "student"
+  }
+}
